@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi Tarasevich Denis👋
+# I study Python with pleasure =)
 <!--
 **Tarasevich92/Tarasevich92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
